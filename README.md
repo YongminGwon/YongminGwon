@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 Interested in ML/DL especially Computer Vision and NLP.
 
