@@ -1,10 +1,10 @@
 ### 👋 Hi there 
 
-Interested in ML/DL especially Computer Vision and NLP.
+Interested in ML/DL especially Computer Vision and NLP
 
-Also studying Robotics.
+Also studying Robotics
 
-Eventually I hope to combine my knowledge and skills for various fields of the world.
+Eventually I hope to combine my knowledge and skills for various fields of the world
 
 ## 📚 Stacks
 
