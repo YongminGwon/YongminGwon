@@ -17,23 +17,28 @@ Eventually I hope to combine my knowledge and skills for various fields of the w
 
 ## 💡 Projects
 
-[EDA] EDA Analysis_on_Seoul_Traffic_Infrastructure (서울시 교통인프라 분석 및 해결방안 제시)
+[EDA] EDA Analysis_on_Seoul_Traffic_Infrastructure 
+(서울시 교통인프라 분석 및 해결방안 제시)
 
 - <https://github.com/YongminGwon/Analysis_on_Seoul_Traffic_Infrastructure>
 
-[OpenCV] Camera_Application (다양한 필터 적용이 가능한 카메라 프로그램)
+[OpenCV] Camera_Application 
+(다양한 필터 적용이 가능한 카메라 프로그램)
 
 - <https://github.com/YongminGwon/Camera_Application>
 
-[Deep Learning] Artist_Classification (예술 작품 화가 분류)
+[Deep Learning] Artist_Classification 
+(예술 작품 화가 분류)
 
 - <https://github.com/YongminGwon/Artist_Classification>
 
-[Computer Vision] Traffic_Lights (YOLOv5를 활용한 Object Detection)
+[Computer Vision] Traffic_Lights 
+(YOLOv5를 활용한 Object Detection)
 
 - <https://github.com/YongminGwon/Traffic_Lights>
 
-[NLP] Dinner_Menu (Nltk와 Naver api를 활용한 저녁메뉴의 데이터 분석)
+[NLP] Dinner_Menu 
+(Nltk와 Naver api를 활용한 저녁메뉴의 데이터 분석)
 
 - <https://github.com/YongminGwon/Dinner_Menu>
 
