@@ -42,6 +42,11 @@ Eventually I hope to combine my knowledge and skills for various fields of the w
 
 - <https://github.com/YongminGwon/Dinner_Menu>
 
+[IOT] Smart Parking Lot With Kiosk
+(키오스크를 활용한 스마트 주차장)
+
+- <https://github.com/addinedu-amr/iot-repo-2>
+
 ## ✨ Also
 
 - Leading Study of ML/DL
