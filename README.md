@@ -48,6 +48,11 @@ Eventually I hope to combine my knowledge and skills for various fields of the w
 
 - <https://github.com/addinedu-amr/iot-repo-2>
 
+[Deep Learning, Computer Vision] Price Camera
+(상품 가격 파악하는 카메라 앱)
+
+- <https://github.com/addinedu-amr/deeplearning-repo-2>
+
 ## ✨ Also
 
 - Leading Study of ML/DL
