@@ -18,6 +18,16 @@ Eventually I hope to combine my knowledge and skills for various fields of the w
 
 ## 💡 Projects
 
+[Deep Learning, Computer Vision] Price Camera
+(상품 가격 파악하는 카메라 앱)
+
+- <https://github.com/addinedu-amr/deeplearning-repo-2>
+
+[IoT] Smart Parking Lot With Kiosk
+(키오스크를 활용한 스마트 주차장)
+
+- <https://github.com/addinedu-amr/iot-repo-2>
+
 [EDA] EDA Analysis_on_Seoul_Traffic_Infrastructure 
 (서울시 교통인프라 분석 및 해결방안 제시)
 
@@ -39,19 +49,10 @@ Eventually I hope to combine my knowledge and skills for various fields of the w
 - <https://github.com/YongminGwon/Traffic_Lights>
 
 [NLP] Dinner_Menu 
-(Nltk와 Naver api를 활용한 저녁메뉴의 데이터 분석)
+(NLTK와 Naver api를 활용한 저녁메뉴의 데이터 분석)
 
 - <https://github.com/YongminGwon/Dinner_Menu>
 
-[IOT] Smart Parking Lot With Kiosk
-(키오스크를 활용한 스마트 주차장)
-
-- <https://github.com/addinedu-amr/iot-repo-2>
-
-[Deep Learning, Computer Vision] Price Camera
-(상품 가격 파악하는 카메라 앱)
-
-- <https://github.com/addinedu-amr/deeplearning-repo-2>
 
 ## ✨ Also
 
