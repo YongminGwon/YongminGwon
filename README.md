@@ -18,7 +18,7 @@ Eventually I hope to combine my knowledge and skills for various fields of the w
 
 ## 💡 Projects
 
-[Deep Learning, Computer Vision] Price Camera
+[Deep Learning, Computer Vision] Payment Summary using Product Detector
 (상품 가격 파악하는 카메라 앱)
 
 - <https://github.com/addinedu-amr/deeplearning-repo-2>
