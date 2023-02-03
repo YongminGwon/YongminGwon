@@ -57,3 +57,4 @@ Eventually I hope to combine my knowledge and skills for various fields of the w
 ## ✨ Also
 
 - Leading Study of ML/DL
+- [Beaverworks] Hackathon 4th (https://pinkwink.kr/m/1413)
