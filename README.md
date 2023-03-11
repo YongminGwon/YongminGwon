@@ -19,44 +19,7 @@ Eventually I hope to combine my knowledge and skills for various fields
 
 ## 💡 Projects
 
-[Deep Learning, Computer Vision] Payment Summary using Product Detector
-(상품 가격 파악하는 카메라 앱)
-
-- <https://github.com/addinedu-amr/deeplearning-repo-2>
-
-- <https://www.youtube.com/shorts/CD_cg12aqZQ>
-
-[IoT] Smart Parking Lot With Kiosk
-(키오스크를 활용한 스마트 주차장)
-
-- <https://github.com/addinedu-amr/iot-repo-2> 
-
-- <https://www.youtube.com/watch?v=5C7lskKPuas>
-
-[EDA] EDA Analysis_on_Seoul_Traffic_Infrastructure 
-(서울시 교통인프라 분석 및 해결방안 제시)
-
-- <https://github.com/YongminGwon/Analysis_on_Seoul_Traffic_Infrastructure>
-
-[OpenCV] Camera_Application 
-(다양한 필터 적용이 가능한 카메라 프로그램)
-
-- <https://github.com/YongminGwon/Camera_Application>
-
-[Deep Learning] Artist_Classification 
-(예술 작품 화가 분류)
-
-- <https://github.com/YongminGwon/Artist_Classification>
-
-[Computer Vision] Traffic_Lights 
-(YOLOv5를 활용한 Object Detection)
-
-- <https://github.com/YongminGwon/Traffic_Lights>
-
-[NLP] Dinner_Menu 
-(NLTK와 Naver api를 활용한 저녁메뉴의 데이터 분석)
-
-- <https://github.com/YongminGwon/Dinner_Menu>
+https://www.notion.so/Arsenal-s-Archive-9258c3411ade4b8db35c94c674631b9e
 
 
 ## ✨ Also
