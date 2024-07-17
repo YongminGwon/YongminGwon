@@ -1,3 +1,3 @@
-### 👋 Hi there 
+ I'm passionate about high-performance programming and multi-threaded programming.
 
-On my way to make multiplayer game Server with C++
+ The primary languages I use are C, C++, and Python.
